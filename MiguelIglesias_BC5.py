@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Miguel Iglesias
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL Streamlit Cloud: https://spotify-wrapped-miguel.streamlit.app/
+# URL GitHub: https://github.com/Miringuillas84/spotify-wrapped-miguel
 
 # ============================================================
 # IMPORTS
