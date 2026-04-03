@@ -24,7 +24,7 @@ import json
 # CONSTANTES
 # ============================================================
 # Modelo de OpenAI. No lo cambies.
-MODEL = "gpt-4o-mini"
+MODEL = "gpt-3.5-turbo"
 
 # -------------------------------------------------------
 # >>> SYSTEM PROMPT — TU TRABAJO PRINCIPAL ESTÁ AQUÍ <<<
